@@ -11,37 +11,37 @@ The following results demonstrate the performance of GSA-Dehaze and baseline mod
 ## 🌫️ Sample Video Outputs (Moderate Fog, Video #003)
 
 The following 4-second clips show dehazing results from different methods for the same scene (video 003, moderate fog). All videos are embedded and can be played inline.
-
 <table>
   <tr>
     <td><b>Hazy Input</b></td>
-    <td><video src="https://github.com/AnasHXH/GSA-Dehaze/blob/main/Moderate_set/hazy.mp4" width="220" controls></video></td>
+    <td><video src="https://AnasHXH.github.io/GSA-Dehaze/videos/hazy.mp4" width="220" controls></video></td>
   </tr>
   <tr>
     <td><b>Ground Truth</b></td>
-    <td><video src="https://github.com/AnasHXH/GSA-Dehaze/blob/main/Moderate_set/Ground_truth.mp4" width="220" controls></video></td>
+    <td><video src="https://AnasHXH.github.io/GSA-Dehaze/videos/Ground_truth.mp4" width="220" controls></video></td>
   </tr>
   <tr>
-    <td><b>Phase 2 (GSA_Dehaze our)</b></td>
-    <td><video src="https://github.com/AnasHXH/GSA-Dehaze/blob/main/Moderate_set/GSA_Dehaze.mp4" width="220" controls></video></td>
+    <td><b>GSA-Dehaze</b></td>
+    <td><video src="https://AnasHXH.github.io/GSA-Dehaze/videos/GSA_Dehaze.mp4" width="220" controls></video></td>
   </tr>
   <tr>
     <td><b>4KDehazing</b></td>
-    <td><video src="https://github.com/AnasHXH/GSA-Dehaze/blob/main/Moderate_set/4KDehazing.mp4" width="220" controls></video></td>
+    <td><video src="https://AnasHXH.github.io/GSA-Dehaze/videos/4KDehazing.mp4" width="220" controls></video></td>
   </tr>
   <tr>
     <td><b>Refusion</b></td>
-    <td><video src="https://github.com/AnasHXH/GSA-Dehaze/blob/main/Moderate_set/Refusion.mp4" width="220" controls></video></td>
+    <td><video src="https://AnasHXH.github.io/GSA-Dehaze/videos/Refusion.mp4" width="220" controls></video></td>
   </tr>
   <tr>
     <td><b>SPSR</b></td>
-    <td><video src="https://github.com/AnasHXH/GSA-Dehaze/blob/main/Moderate_set/spsr.mp4" width="220" controls></video></td>
+    <td><video src="https://AnasHXH.github.io/GSA-Dehaze/videos/spsr.mp4" width="220" controls></video></td>
   </tr>
   <tr>
     <td><b>HazeSpace2M</b></td>
-    <td><video src="https://github.com/AnasHXH/GSA-Dehaze/blob/main/Moderate_set/HazeSpace2M.mp4" width="220" controls></video></td>
+    <td><video src="https://AnasHXH.github.io/GSA-Dehaze/videos/HazeSpace2M.mp4" width="220" controls></video></td>
   </tr>
 </table>
+
 
 
 ## 📊 Quantitative Results
