@@ -10,39 +10,19 @@ The following results demonstrate the performance of GSA-Dehaze and baseline mod
 
 ## 🌫️ Sample Video Outputs (Moderate Fog, Video #003)
 
-The following 4-second clips show dehazing results from different methods for the same scene (video 003, moderate fog). All videos are embedded and can be played inline.
-<table>
-  <tr>
-    <td><b>Hazy Input</b></td>
-    <td><video src="https://AnasHXH.github.io/GSA-Dehaze/videos/hazy.mp4" width="220" controls></video></td>
-  </tr>
-  <tr>
-    <td><b>Ground Truth</b></td>
-    <td><video src="https://AnasHXH.github.io/GSA-Dehaze/videos/Ground_truth.mp4" width="220" controls></video></td>
-  </tr>
-  <tr>
-    <td><b>GSA-Dehaze</b></td>
-    <td><video src="https://AnasHXH.github.io/GSA-Dehaze/videos/GSA_Dehaze.mp4" width="220" controls></video></td>
-  </tr>
-  <tr>
-    <td><b>4KDehazing</b></td>
-    <td><video src="https://AnasHXH.github.io/GSA-Dehaze/videos/4KDehazing.mp4" width="220" controls></video></td>
-  </tr>
-  <tr>
-    <td><b>Refusion</b></td>
-    <td><video src="https://AnasHXH.github.io/GSA-Dehaze/videos/Refusion.mp4" width="220" controls></video></td>
-  </tr>
-  <tr>
-    <td><b>SPSR</b></td>
-    <td><video src="https://AnasHXH.github.io/GSA-Dehaze/videos/spsr.mp4" width="220" controls></video></td>
-  </tr>
-  <tr>
-    <td><b>HazeSpace2M</b></td>
-    <td><video src="https://AnasHXH.github.io/GSA-Dehaze/videos/HazeSpace2M.mp4" width="220" controls></video></td>
-  </tr>
-</table>
+The following 4-second clips show dehazing results from different methods for the same scene (video 003, moderate fog). Click any link below to view the result:
 
+| Method              | Video Link                                                                 |
+|---------------------|-----------------------------------------------------------------------------|
+| Hazy Input          | [🔗 hazy.mp4](https://anashxh.github.io/GSA-Dehaze/videos/hazy.mp4)         |
+| Ground Truth        | [🔗 Ground_truth.mp4](https://anashxh.github.io/GSA-Dehaze/videos/Ground_truth.mp4) |
+| GSA-Dehaze (Ours)   | [🔗 GSA_Dehaze.mp4](https://anashxh.github.io/GSA-Dehaze/videos/GSA_Dehaze.mp4)     |
+| 4KDehazing          | [🔗 4KDehazing.mp4](https://anashxh.github.io/GSA-Dehaze/videos/4KDehazing.mp4)     |
+| Refusion            | [🔗 Refusion.mp4](https://anashxh.github.io/GSA-Dehaze/videos/Refusion.mp4)         |
+| SPSR                | [🔗 spsr.mp4](https://anashxh.github.io/GSA-Dehaze/videos/spsr.mp4)                 |
+| HazeSpace2M         | [🔗 HazeSpace2M.mp4](https://anashxh.github.io/GSA-Dehaze/videos/HazeSpace2M.mp4)   |
 
+---
 
 ## 📊 Quantitative Results
 
