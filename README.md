@@ -67,6 +67,9 @@ Coming soon!
 | Full GSA-Dehaze  | [Coming Soon]   | End-to-end evaluation |
 
 ---
+👉 You can access the full set of dehazing video results across all models and conditions via [Google Drive](https://drive.google.com/drive/folders/1j0gAToNbPGhOxLzY7QggOLNt2QDx-5Vr?usp=drive_link).
+
+---
 
 ## 📄 Citation
 
