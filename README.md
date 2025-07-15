@@ -8,16 +8,45 @@ GSA-Dehaze is a two-phase attention-based architecture designed for dehazing rem
 
 The following results demonstrate the performance of GSA-Dehaze and baseline models under the **Moderate Fog** setting. Outputs are organized into subfolders per model:
 
-📁 `/Moderate_set/frames_videos/`
-- `Phase_1_Grid_Attention/` – Coarse outputs using only global attention
-- `Phase_2_Spatial_Attention/` – Final refined outputs using spatial attention
-- `Refusion/`, `4KDehazing/`, `spsr/`, `HazeSpace2M/` – Outputs from SOTA baselines
-- `Ground_truth/` – Reference clean frames
-- `Hazy/` – Input foggy frames
+## 🌫️ Sample Video Outputs (Moderate Fog, Video #003)
 
-Each folder contains 4-second video sequences for side-by-side qualitative comparison.
+The following 4-second clips show dehazing results from different methods for the same scene (video 003, moderate fog). All videos are embedded and can be played inline.
 
----
+<table>
+  <tr>
+    <td><b>Hazy Input</b></td>
+    <td><video src="./Moderate_set/frames_videos/Hazy/003.mp4" width="220" controls></video></td>
+  </tr>
+  <tr>
+    <td><b>Ground Truth</b></td>
+    <td><video src="./Moderate_set/frames_videos/Ground_truth/003.mp4" width="220" controls></video></td>
+  </tr>
+  <tr>
+    <td><b>Phase 1 (Grid Attention)</b></td>
+    <td><video src="./Moderate_set/frames_videos/Phase_1_Grid_Attention/003.mp4" width="220" controls></video></td>
+  </tr>
+  <tr>
+    <td><b>Phase 2 (Spatial Attention)</b></td>
+    <td><video src="./Moderate_set/frames_videos/Phase_2_Spatial_Attention/003.mp4" width="220" controls></video></td>
+  </tr>
+  <tr>
+    <td><b>4KDehazing</b></td>
+    <td><video src="./Moderate_set/frames_videos/4KDehazing/003.mp4" width="220" controls></video></td>
+  </tr>
+  <tr>
+    <td><b>Refusion</b></td>
+    <td><video src="./Moderate_set/frames_videos/Refusion/003.mp4" width="220" controls></video></td>
+  </tr>
+  <tr>
+    <td><b>SPSR</b></td>
+    <td><video src="./Moderate_set/frames_videos/spsr/003.mp4" width="220" controls></video></td>
+  </tr>
+  <tr>
+    <td><b>HazeSpace2M</b></td>
+    <td><video src="./Moderate_set/frames_videos/HazeSpace2M/003.mp4" width="220" controls></video></td>
+  </tr>
+</table>
+
 
 ## 📊 Quantitative Results
 
