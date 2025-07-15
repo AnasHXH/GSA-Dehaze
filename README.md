@@ -15,35 +15,31 @@ The following 4-second clips show dehazing results from different methods for th
 <table>
   <tr>
     <td><b>Hazy Input</b></td>
-    <td><video src="./Moderate_set/frames_videos/Hazy/003.mp4" width="220" controls></video></td>
+    <td><video src="https://github.com/AnasHXH/GSA-Dehaze/blob/main/Moderate_set/hazy.mp4" width="220" controls></video></td>
   </tr>
   <tr>
     <td><b>Ground Truth</b></td>
-    <td><video src="./Moderate_set/frames_videos/Ground_truth/003.mp4" width="220" controls></video></td>
+    <td><video src="https://github.com/AnasHXH/GSA-Dehaze/blob/main/Moderate_set/Ground_truth.mp4" width="220" controls></video></td>
   </tr>
   <tr>
-    <td><b>Phase 1 (Grid Attention)</b></td>
-    <td><video src="./Moderate_set/frames_videos/Phase_1_Grid_Attention/003.mp4" width="220" controls></video></td>
-  </tr>
-  <tr>
-    <td><b>Phase 2 (Spatial Attention)</b></td>
-    <td><video src="./Moderate_set/frames_videos/Phase_2_Spatial_Attention/003.mp4" width="220" controls></video></td>
+    <td><b>Phase 2 (GSA_Dehaze our)</b></td>
+    <td><video src="https://github.com/AnasHXH/GSA-Dehaze/blob/main/Moderate_set/GSA_Dehaze.mp4" width="220" controls></video></td>
   </tr>
   <tr>
     <td><b>4KDehazing</b></td>
-    <td><video src="./Moderate_set/frames_videos/4KDehazing/003.mp4" width="220" controls></video></td>
+    <td><video src="https://github.com/AnasHXH/GSA-Dehaze/blob/main/Moderate_set/4KDehazing.mp4" width="220" controls></video></td>
   </tr>
   <tr>
     <td><b>Refusion</b></td>
-    <td><video src="./Moderate_set/frames_videos/Refusion/003.mp4" width="220" controls></video></td>
+    <td><video src="https://github.com/AnasHXH/GSA-Dehaze/blob/main/Moderate_set/Refusion.mp4" width="220" controls></video></td>
   </tr>
   <tr>
     <td><b>SPSR</b></td>
-    <td><video src="./Moderate_set/frames_videos/spsr/003.mp4" width="220" controls></video></td>
+    <td><video src="https://github.com/AnasHXH/GSA-Dehaze/blob/main/Moderate_set/spsr.mp4" width="220" controls></video></td>
   </tr>
   <tr>
     <td><b>HazeSpace2M</b></td>
-    <td><video src="./Moderate_set/frames_videos/HazeSpace2M/003.mp4" width="220" controls></video></td>
+    <td><video src="https://github.com/AnasHXH/GSA-Dehaze/blob/main/Moderate_set/HazeSpace2M.mp4" width="220" controls></video></td>
   </tr>
 </table>
 
